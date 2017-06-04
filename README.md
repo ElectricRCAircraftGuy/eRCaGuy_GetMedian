@@ -12,7 +12,7 @@ My contact info is available by clicking the "Contact Me" tab at the top of my w
 ## Readme last updated: 4 June 2017  
 
 ## Donate
- - http://www.electricrcaircraftguy.com/2016/01/contribute.html
+ - Donate on my website: http://www.electricrcaircraftguy.com/2016/01/contribute.html
  - Buy a product of mine: [Computa Pranksta on Amazon](https://www.amazon.com/gp/product/B06ZYZ2GTB/ref=as_li_tl?ie=UTF8&tag=elecrc-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=B06ZYZ2GTB&linkId=01e462346a0ba4fee97e5a5e67f73a74)
  - Other popular libraries/downloads of mine: https://gumroad.com/gabrielstaples
 
